@@ -1,0 +1,15 @@
+package LEC3;
+
+import java.util.Scanner;
+import java.lang.String;
+import java.lang.System;
+
+public class Main4 {
+    public static void main(String[] args){
+        String str = "HELLO";
+        System.out.println(str.toLowerCase());
+
+    }
+
+}
+
