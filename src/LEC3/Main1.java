@@ -11,5 +11,4 @@ public class Main1 {
         String str = "hello";
         System.out.println(str.length());
     }
-
 }
