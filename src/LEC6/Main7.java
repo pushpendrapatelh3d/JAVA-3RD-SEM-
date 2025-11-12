@@ -6,7 +6,6 @@ class car{
      void display(String name){
          System.out.println(name);
      }
-    
 };
  
 public class Main7 {
@@ -16,8 +15,5 @@ public class Main7 {
         String input = sc.nextLine();
         car obj= new car() ;
         obj.display(input);
-        
-        
-        
     }
 }
