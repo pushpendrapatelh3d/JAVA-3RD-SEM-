@@ -15,6 +15,8 @@ class c implements a,b{
 }
 
 
+
+
 public class Main3 {
     public static void main(){
         a obj = new c();
