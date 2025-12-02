@@ -17,3 +17,4 @@ public class Main5 {
             System.out.println("duplicate element exist");
     }
 }
+
